@@ -1,3 +1,19 @@
 body{
     background-color: blueviolet;
+
+}
+h1,h3,h5{
+    text-align: center;
+    color:bisque;
+    
+}
+h1{
+    font-size: 50px;
+    font-family:fantasy, monospace;
+}
+h3{
+    font-size: 30px;
+}
+h5{
+    font-size: 28px;
 }
