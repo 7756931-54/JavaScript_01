@@ -9,11 +9,16 @@ h1,h3,h5{
 }
 h1{
     font-size: 50px;
-    font-family:fantasy, monospace;
+    font-family:fantasy;
 }
 h3{
     font-size: 30px;
 }
 h5{
     font-size: 28px;
+}
+div{
+    padding: 10px;
+    color:antiquewhite;
+
 }
